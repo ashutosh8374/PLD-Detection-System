@@ -5,3 +5,4 @@ Plant Leaf Disease Detection System using CNN.
 2. Install Matplotlib.
 3. Install Jupyter Notebook.
 4. Install TensorFlow and Keras.
+5. Install Anaconda Python Package.
